@@ -1,4 +1,4 @@
-**PROJECT NAME: HEALTHCARE ANALYTICS**
+**PROJECT OVERVIEW**
 
 •	Developed Data-Driven Dashboards: Created comprehensive dashboards in Excel, Power BI and Tableau to track key healthcare metrics, including total discharges, patient days, and net patient revenue over a five-year period, aiding in operational efficiency and financial analysis.
 
