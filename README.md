@@ -12,4 +12,4 @@
 
 
 
-![Excel Dashboard](/assets/img/bike_study.jpeg)
+![Excel Dashboard](asset/Excel_Dashboard.png)
